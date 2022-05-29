@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "pack.description",
+        "name": "pack.name",
+        "uuid": "11581920-6e64-4fd0-b001-1ba48b03b9fe",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 1 ]
+    },
+    "modules": [
+        { 
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "5d66f915-123d-45e0-926d-51058ff26ed5",
+            "version": [0, 0, 1]
+        }
+    ]
+}

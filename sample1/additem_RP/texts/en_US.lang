@@ -1,0 +1,5 @@
+## コメントは「##」で始まります。
+## pack.nameとpack.descriptionはmanifest.jsonで定義した内容
+pack.name=test pack
+pack.description=test pack description
+item.additem:ultrahard_steel=Ultra Hard Steel

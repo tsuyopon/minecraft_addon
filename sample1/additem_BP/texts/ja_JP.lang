@@ -1,0 +1,5 @@
+﻿## コメントは「##」で始まります。
+## pack.nameとpack.descriptionはmanifest.jsonで定義した内容
+pack.name=パック名称
+pack.description=パックの詳細説明
+item.additem:ultrahard_steel=超硬質スチール

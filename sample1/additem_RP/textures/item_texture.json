@@ -1,0 +1,9 @@
+{
+   "resource_pack_name" : "additem",
+   "texture_data":{
+      "ultrahard_steel" :{
+         "textures": "textures/additem/items/ultrahard_steel"
+      }
+   },
+   "texture_name": "atlas.items"
+}
